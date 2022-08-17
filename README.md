@@ -1,2 +1,2 @@
 # dio-challenge-github
-First repository challenge of Digital Innovation One
+First repository challenge about github from Digital Innovation One
